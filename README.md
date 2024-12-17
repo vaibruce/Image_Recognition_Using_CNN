@@ -32,7 +32,7 @@ The system is implemented in multiple stages:
   - 256x256 pixels
 - **Bit Depth:** 4-bit image representation
 - **Threshold Variation:** 
-  - The threshold value increases proportionally with image size
+  - The threshold value increases with image size
   - For the same pattern, a 256x256 image requires a higher threshold compared to a 128x128 image
   - This adjustment accounts for the increased complexity and potential match variations in larger images
 
