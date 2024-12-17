@@ -37,7 +37,7 @@ The system is implemented in multiple stages:
   - This adjustment accounts for the increased complexity and potential match variations in larger images
 
 ### Results 
-- Input and test patterns are stored in `.data` files (e.g., `image1.data` and `pattern.data`)
+- Input and test patterns are stored in `.data` files (e.g., `image.data` and `pattern.data`)
 - Outputs include the count of detected patterns and visual highlights of detection locations
 
 ## Repository Structure 
