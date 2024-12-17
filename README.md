@@ -45,7 +45,7 @@ The system is implemented in multiple stages:
 - **`Convolution Stage 2/`**: Implementation of the second stage (image-pattern convolution)
 - **`MaxPooling/`**: Implementation of the max pooling layer
 - **`Test Files/`**: Contains example input images (128x128 and 256x256) and test pattern files in `.data` format
-- **`Simulation Outputs/`**: Outputs from simulations demonstrating pattern detection and counting
+- **`Outputs/`**: Outputs from simulations demonstrating pattern detection and counting
 
 
 ## Acknowledgment 
