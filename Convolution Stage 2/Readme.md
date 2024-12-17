@@ -8,5 +8,4 @@ This folder contains **verification code and test benches** for the second stage
 Key Verification Characteristics:
 - Supports 128x128 and 256x256 pixel images
 - Focuses on 4-bit image depth
-- Validates Laplacian filter convolution implementation
 - Verifies pipelined processing architecture's performance and accuracy
