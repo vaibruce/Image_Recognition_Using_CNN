@@ -49,7 +49,7 @@ The system is implemented in multiple stages:
 
 
 ## Acknowledgment 
-This project is inspired by the repository [Convolutional-Neural-Network](https://github.com/AniketBadhan/Convolutional-Neural-Network) by **AniketBadhan**. Due to the original repository being inactive, additional modifications and missing implementations were added to complete the system. The contributions from the original work are duly acknowledged. 
+This project is inspired by the repository [Convolutional-Neural-Network](https://github.com/AniketBadhan/Convolutional-Neural-Network) by **AniketBadhan**. Due to the original repository being inactive, additional modifications and missing implementations were added to complete the system. The contributions from the original work are acknowledged. 
 
 ## Report 
 For a detailed explanation of the implementation, methodology, and results, refer to the included [Project Report](https://github.com/AniketBadhan/Convolutional-Neural-Network/blob/master/CNN%20Project%20Report.pdf). 
