@@ -54,5 +54,3 @@ This project is inspired by the repository [Convolutional-Neural-Network](https:
 ## Report 
 For a detailed explanation of the implementation, methodology, and results, refer to the included [Project Report](https://github.com/AniketBadhan/Convolutional-Neural-Network/blob/master/CNN%20Project%20Report.pdf). 
 
-## License 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
